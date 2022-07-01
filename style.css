@@ -9,3 +9,7 @@
         display: block !important;
     }
 }
+
+#card-text {
+    font-size: 14px;
+}
