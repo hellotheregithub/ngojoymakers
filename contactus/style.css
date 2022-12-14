@@ -53,6 +53,7 @@ body {
 .form-wrapper {
     width: 100%;
     max-width: 28rem;
+    padding: 12px;
 }
 
 .form {
